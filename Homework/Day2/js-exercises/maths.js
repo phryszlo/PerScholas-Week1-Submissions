@@ -37,10 +37,10 @@ Print in console
 
 let group1 = [4, 10, 22, -30, 55]
 let group2 = [68, 7, -22, 9, 100]
-let sum1 = group1.reduce((a,b) => {
+let sum1 = group1.reduce((a, b) => {
   return a + b
 })
-let sum2 = group2.reduce((a,b) => {
+let sum2 = group2.reduce((a, b) => {
   return a + b
 })
 let avg1 = sum1 / group1.length
