@@ -63,8 +63,6 @@ else {
 
 /*
   isPrime(x: int)
-    This is my function, just now written. It seems to work. I'm a little surprised.
-    What I did learn online was the following :
       "To prove whether a number is a prime number, first try dividing it by 2, 
       and see if you get a whole number. [...]
       If you don't get a whole number, next try dividing it by prime numbers"
